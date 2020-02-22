@@ -1,0 +1,49 @@
+vim 1.md
+search readme
+search md
+search 01.md
+search 01
+rename 001.md
+rename 01.md
+open_with 0
+rename 
+search .conf
+make install
+search st
+search .Xde
+open_with nvim
+rename rc.conf.bak
+shell 
+open_with anger
+search cofnig
+make unistall
+l
+rename init.vim.bak
+shellzh
+rename init.vim
+rename st
+shell ra
+shell st
+open_with /
+search ranger
+search 
+search config
+rename 01_need_to_know.md
+shell nvim  01class.md
+
+delete
+find fzf
+shell fzf
+shell nvim  02class.md
+shell nvim  
+search doc
+search git
+open_with vim
+open_with wpspdf
+open_with
+open_with wps-office-wpp
+open_with wps
+open_with wpp
+open_with 
+search .config
+search nvim
